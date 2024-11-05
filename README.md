@@ -1,1 +1,1 @@
-# Stock-Prediction-Model
+# Stock-Analysis-Model
